@@ -1,0 +1,25 @@
+place,user_id,travel_minutes
+Campus Cafe,user_001,8
+Campus Cafe,user_002,12
+Campus Cafe,user_003,10
+Pizza Place,user_001,15
+Pizza Place,user_002,20
+Pizza Place,user_003,25
+City Park,user_001,20
+City Park,user_002,15
+City Park,user_003,18
+Bowling Center,user_001,25
+Bowling Center,user_002,18
+Bowling Center,user_003,30
+Art Museum,user_001,30
+Art Museum,user_002,25
+Art Museum,user_003,20
+Shopping Mall,user_001,18
+Shopping Mall,user_002,22
+Shopping Mall,user_003,15
+Sports Center,user_001,12
+Sports Center,user_002,16
+Sports Center,user_003,14
+Night Market,user_001,35
+Night Market,user_002,30
+Night Market,user_003,28
